@@ -80,7 +80,7 @@ const handleSubmit = async (e) => {
   loader(messageDiv);
 
   // fetch data from server 
-  const response = await fetch('https://openai-server-ywbk.onrender.com', {
+  const response = await fetch('https://openai-server-5sni.onrender.com', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
