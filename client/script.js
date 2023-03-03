@@ -82,7 +82,7 @@ const handleSubmit = async (e) => {
 
 
   // fetch data from server 
-  const response = await fetch('https://openai-server-574c.onrender.com', {
+  const response = await fetch('https://openai-server-x6el.onrender.com', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
