@@ -9,3 +9,24 @@ OpenAI API integration.
 - Building the server 
 - Connected the client and server
 - Deploy the fully functioning web app
+
+# Getting Started 
+First, install the dependencies for both the server and client:
+```
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Then, run the client:
+```
+npm run start
+```
